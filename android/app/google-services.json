@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248505760157",
+    "project_id": "hardwhere-31dcc",
+    "storage_bucket": "hardwhere-31dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248505760157:android:fe823cbdddbf178a871774",
+        "android_client_info": {
+          "package_name": "com.tri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248505760157-upp6c5n4sttj70k158sg03v1f99rh5hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1qvzuq-_TiJcigtPJuL4XX7dBegpRuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248505760157-upp6c5n4sttj70k158sg03v1f99rh5hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
